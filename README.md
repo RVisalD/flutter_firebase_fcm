@@ -10,5 +10,5 @@ flutter pub add firebase_core firebase_messaging
 
 Then add this in order to create the essential firebase configuration
 ```
-lutterfire configure
+flutterfire configure
 ```
